@@ -1,0 +1,34 @@
+Project Structure
+
+    src/: Contains React components, routes, and application logic.
+        components/: Reusable UI components.
+        Routes/: React route components.
+        App.js: Main application component.
+        index.js: Entry point for React application.
+    public/: Contains static assets and the HTML entry point.
+
+
+
+
+project-root/
+│
+├── src/
+│   ├── components/
+│   │   ├── Home.js
+│   │   ├── Main.js
+│   │   ├── FeaturedCard.js
+│   │   ├── Footer.js
+│   └── Routes/
+│       ├── /Main
+│       ├── /
+│       
+│   ├── App.js
+│   └── index.js
+│
+├── public/
+│   ├── index.html
+
+
+
+
+

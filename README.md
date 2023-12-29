@@ -14,3 +14,10 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/sondagarviraj/new-app
    cd your-repository
+
+
+2.**Run the Application:**   
+
+    -cd new-app
+
+    -npm start
