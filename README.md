@@ -12,5 +12,5 @@ Ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/sondagarviraj/new-app
    cd your-repository
